@@ -23,8 +23,7 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```python
-# REGNO:-212222060253
-# Name:- SRIJAYAN T
+
 def slice(a):
     b=a[9:1:-2]
     print(f"The reversed string is '{b}'")
